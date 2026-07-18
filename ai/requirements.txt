@@ -4,4 +4,3 @@ opencv-python-headless
 mediapipe
 numpy
 av
-libgl1-mesa-glx
